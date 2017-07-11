@@ -4,6 +4,7 @@
 #ok
 class A
 {
-   public $a = '123456'  
+   public $c = 'abcdef';
+   public $a = '123456'; 
 }
 
