@@ -6,3 +6,4 @@ class A
 {
    public $a = '123456'  
 }
+
